@@ -1,6 +1,2 @@
 print ("Hallo Wereld !")
 print ("Welkom in onze ijssalon")
-print ("Welkom in onze Ijssalon")
-print ("Welkom in onze online ijssalon")
-print ("Welkom in onze ijssalon")
-print ("under construction")
